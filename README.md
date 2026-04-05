@@ -30,7 +30,7 @@ Follow these steps to get the environment ready:
 
 ### 1. Clone & Environment
 ```
-git clone <your-repo-url>
+git clone https://github.com/SueRix/Interview_task_DevelopsToday
 cd travel_config
 ```
 # Create virtual environment
